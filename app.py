@@ -122,4 +122,4 @@ with tab3:
     st.write("Terminal Value is calculated utilizing the Gordon Growth Model:")
     st.latex(r"Terminal Value = \frac{FCF_{n} \times (1 + g)}{(WACC - g)}")
     
-    st.write("The Enterprise Value to
+    st.write("The Enterprise Value to Equity Value bridge incorporates current cash equivalents and total debt to arrive at the final implied per-share valuation.")
