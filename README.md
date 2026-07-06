@@ -10,3 +10,4 @@ This project provides a professional-grade valuation analysis for Jyothy Labs.
 ## Technical Skills Used
 - **Financial Modeling**: 3-Statement DCF, Terminal Value (Gordon Growth), and EV/Equity Bridge.
 - **Programming**: Python (pandas, streamlit) for automating complex financial computations.
+🚀 [Click here to use the Live Streamlit Application](https://jyothy-labs-valuation-xb2sjqnit563ut3w9tww5d.streamlit.app/)
